@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<img src="https://wallpaperaccess.com/full/2877459.jpg" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - Currently building production-ready full-stack applications using Spring Boot, React, and AI integrations
 - Open to collaborating on backend engineering, AI-driven applications, and scalable system projects
